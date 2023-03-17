@@ -46,9 +46,6 @@
 
 ### :chart_with_downwards_trend: Burndown
 
-
-### Houve mudanças de P.O e S.M na equipe no 8º dia da Sprint onde tivemos que fazer tudo do zero e adaptar a Sprint, por conta disso o gráfico Burndown ficou alterado.
-
 <img src="https://user-images.githubusercontent.com/101262618/225779813-99395f76-ccbf-4173-8bc5-064a9ba5194d.png" width="400px" />
 
 
