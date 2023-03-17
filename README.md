@@ -18,40 +18,29 @@
   ###  :wrench: Dev Team
 
 
-### Lucas Eduardo Cardoso da Costa  - P.O [![GitHub Badge](https://img.shields.io/github/followers/luks-ecdc?label=luks-ecdc&style=for-the-badge&color=black&link=https://github.com/luks-ecdc)](https://github.com/luks-ecdc)<br/>
+### Dante Demétrius Pereira Silva  - P.O [![GitHub Badge](https://img.shields.io/github/followers/dantesjc?label=dantesjc&style=for-the-badge&color=black&link=https://github.com/dantesjc)](https://github.com/dantesjc)<br/>
 
-### Thamires de Souza Barbosa - S.M [![GitHub Badge](https://img.shields.io/github/followers/Thamires-S0uza?label=Thamires-S0uza&style=for-the-badge&color=black&link=https://github.com/Thamires-S0uza)](https://github.com/Thamires-S0uza)<br/>
+### Carlos Henrique Benício Costa - S.M [![GitHub Badge](https://img.shields.io/github/followers/Carlos-Henrique39?label=Carlos-Henrique39&style=for-the-badge&color=black&link=https://github.com/Carlos-Henrique39)](https://github.com/Carlos-Henrique39)<br/>
 
-### Carlos Henrique Benício Costa - Dev. [![GitHub Badge](https://img.shields.io/github/followers/Carlos-Henrique39?label=Carlos-Henrique39&style=for-the-badge&color=black&link=https://github.com/Carlos-Henrique39)](https://github.com/Carlos-Henrique39)<br/>
+### Thamires de Souza Barbosa - Dev. [![GitHub Badge](https://img.shields.io/github/followers/Thamires-S0uza?label=Thamires-S0uza&style=for-the-badge&color=black&link=https://github.com/Thamires-S0uza)](https://github.com/Thamires-S0uza)<br/>
 
-### Vinicios dos Santos Almeida - Dev. [![GitHub Badge](https://img.shields.io/github/followers/ViniciosAlmeida?label=ViniciosAlmeida&style=for-the-badge&color=black&link=https://github.com/ViniciosAlmeida)](https://github.com/ViniciosAlmeida)<br/>
+### Ana Christina  - Dev. [![GitHub Badge](https://img.shields.io/github/followers/AnaChristina?label=AnaChristina&style=for-the-badge&color=black&link=https://github.com/AnaChristina)](https://github.com/AnaChristina)<br/>
 
 ### Frederico Rabelo - Dev. [![GitHub Badge](https://img.shields.io/github/followers/fredrbo?label=fredrbo&style=for-the-badge&color=black&link=https://github.com/fredrbo)](https://github.com/fredrbo)<br/>
 
 ### Lucca Santiago Almeida - Dev. [![GitHub Badge](https://img.shields.io/github/followers/LuccaSantiagoDev?label=LuccaSantiagoDev&style=for-the-badge&color=black&link=https://github.com/LuccaSantiagoDev)](https://github.com/LuccaSantiagoDev)</br>
 
-### Dante Demétrius Pereira Silva - Dev. [![GitHub Badge](https://img.shields.io/github/followers/dantesjc?label=dantesjc&style=for-the-badge&color=black&link=https://github.com/dantesjc)](https://github.com/dantesjc)<br/>
+### Juliana Maria - Dev. [![GitHub Badge](https://img.shields.io/github/followers/JulianaMaria-Lab?label=JulianaMaria-Lab&style=for-the-badge&color=black&link=https://github.com/JulianaMaria-Lab)](https://github.com/JulianaMaria-Lab)<br/>
 
 ### Nicolas Lemuel Ayres de Lima - Dev. [![GitHub Badge](https://img.shields.io/github/followers/nlemuel?label=nlemuel&style=for-the-badge&color=black&link=https://github.com/nlemuel)](https://github.com/nlemuel)<br/>
+
+### Maycon Rafael - Dev. [![GitHub Badge](https://img.shields.io/github/followers/MayconRafael?label=MayconRafael&style=for-the-badge&color=black&link=https://github.com/MayconRafael)](https://github.com/MayconRafael)<br/>
 
 
 <hr>
 
 ### :runner: Sprint Planning
 
-| Tarefas  | Responsáveis|
-| ------| ------|
-| Documentação e DoR | Lucas, Dante , Lucca, Vinicius |
-| Github  | Lucas|
-| Organização de via de comunicação | Thamires, Carlos|
-| Organização de Daylies | Lucas, Thamires |
-| Organização de Wireframes| Thamires, Dante, Lucas |
-| Burndown | Lucas, Thamires | 
-| Tela Login dos Colaboradores | Nicolas, Frederico, Carlos |
-| Tela de trabalho Administrador | Nicolas, Frederico, Carlos |
-| Tela de trabalho Gestor | Nicolas, Frederico, Carlos |
-| Tela de trabalho Digitador | Nicolas, Frederico, Carlos |
-| Estudo do banco de dados | Lucca, Vinicius |
 
 <hr>
 
@@ -60,7 +49,7 @@
 
 ### Houve mudanças de P.O e S.M na equipe no 8º dia da Sprint onde tivemos que fazer tudo do zero e adaptar a Sprint, por conta disso o gráfico Burndown ficou alterado.
 
-<img src="https://user-images.githubusercontent.com/37638307/163489493-298cdc02-78fb-426b-b177-39db38521fa7.png" width="400px" />
+<img src="https://user-images.githubusercontent.com/101262618/225779813-99395f76-ccbf-4173-8bc5-064a9ba5194d.png" width="400px" />
 
 
 
